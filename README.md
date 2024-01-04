@@ -24,3 +24,5 @@ can usually press <ESC> and stop things from going haywire.
 So far, only {steel, lock, burger} have .png files that opencv can use
 to detect actual items in the GTHQ or depots. You will need to screen-
 capture and add your own .png files for other items.
+
+Link to demo: https://youtu.be/BW0tpRYUobg
