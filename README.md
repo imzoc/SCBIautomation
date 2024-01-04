@@ -25,4 +25,4 @@ So far, only {steel, lock, burger} have .png files that opencv can use
 to detect actual items in the GTHQ or depots. You will need to screen-
 capture and add your own .png files for other items.
 
-Link to demo: https://youtu.be/BW0tpRYUobg
+Link to 1-minute demo: https://youtu.be/BW0tpRYUobg
